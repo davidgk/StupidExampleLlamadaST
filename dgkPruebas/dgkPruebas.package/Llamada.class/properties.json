@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "dgkPruebas-telefonia",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lineaEstaDisponible",
+		"fechaHoraInicio"
+	],
+	"name" : "Llamada",
+	"type" : "normal"
+}
